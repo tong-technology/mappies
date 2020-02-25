@@ -1,1 +1,2 @@
-# mappies
+# Mappies
+- find key mapping
