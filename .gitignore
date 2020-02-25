@@ -13,3 +13,23 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+# Copy from .gitignore file
+vendor
+tmp
+coverage.out
+.coverage.txt
+
+# Test binary, build with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# IntelliJ project files
+.idea
+out
+gen
+*.iml
+.DS_Store
+*.log
